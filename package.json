@@ -1,6 +1,6 @@
 {
-  "name": "ispdf",
-  "version": "1.0.0",
+  "name": "is-pdf-valid",
+  "version": "0.0.1",
   "description": "Check if is a PDF file valid.",
   "main": "index.js",
   "scripts": {
