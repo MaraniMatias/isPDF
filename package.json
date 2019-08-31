@@ -1,0 +1,26 @@
+{
+  "name": "ispdf",
+  "version": "1.0.0",
+  "description": "Check if is a PDF file valid.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaraniMatias/isPDF.git"
+  },
+  "keywords": [
+    "pdf",
+    "isPDF",
+    "buffer",
+    "file"
+  ],
+  "author": "Marani Matias Ezequiel <maranimatias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaraniMatias/isPDF/issues"
+  },
+  "homepage": "https://github.com/MaraniMatias/isPDF#readme"
+}
